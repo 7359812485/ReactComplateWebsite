@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactComplateWebsite/static/css/main.0f52b626.css",
+    "main.js": "/ReactComplateWebsite/static/js/main.07c5ede5.js",
+    "static/media/michael-baccin-XopauR-Nagk-unsplash.jpg": "/ReactComplateWebsite/static/media/michael-baccin-XopauR-Nagk-unsplash.66d29cb122b34dcf22b3.jpg",
+    "static/media/istockphoto-1043408154-1024x1024.jpg": "/ReactComplateWebsite/static/media/istockphoto-1043408154-1024x1024.a79e36cdc809410a07f8.jpg",
+    "static/media/istockphoto-871030872-1024x1024.jpg": "/ReactComplateWebsite/static/media/istockphoto-871030872-1024x1024.46fa5f72772b08d0ebc8.jpg",
+    "static/media/istockphoto-1197071023-1024x1024.jpg": "/ReactComplateWebsite/static/media/istockphoto-1197071023-1024x1024.6be1c68897a885e54059.jpg",
+    "static/media/istockphoto-1250152599-1024x1024.jpg": "/ReactComplateWebsite/static/media/istockphoto-1250152599-1024x1024.fba1e5cd28e30d3b79a0.jpg",
+    "static/media/istockphoto-1425777806-1024x1024.jpg": "/ReactComplateWebsite/static/media/istockphoto-1425777806-1024x1024.7202ef4b948a8dfff4ed.jpg",
+    "static/media/istockphoto-1370235115-1024x1024.jpg": "/ReactComplateWebsite/static/media/istockphoto-1370235115-1024x1024.4783ecfbb00fdf8e0092.jpg",
+    "static/media/istockphoto-1250153350-1024x1024.jpg": "/ReactComplateWebsite/static/media/istockphoto-1250153350-1024x1024.88143777f45c7141bfa7.jpg",
+    "index.html": "/ReactComplateWebsite/index.html",
+    "main.0f52b626.css.map": "/ReactComplateWebsite/static/css/main.0f52b626.css.map",
+    "main.07c5ede5.js.map": "/ReactComplateWebsite/static/js/main.07c5ede5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f52b626.css",
+    "static/js/main.07c5ede5.js"
+  ]
+}
